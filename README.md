@@ -17,42 +17,42 @@ Jalankan script DDL tersebut pada DBMS MySQL
 ![gambar](gambar/br.png)
 OUTPUT
 
-![
+![gambar](gambar/br1.png)
 
 2. Script Tabel dosen
 
-![
+![gambar](gambar/br2.png)
 
 OUTPUT
 
-![
+![gambar](gambar/br3.png)
 
 3. Script Tabel matakuliah
 
-![
+![gambar](gambar/br4.png)
 
 OUTPUT
 
-![
+![gambar](gambar/br5.png)
 
 4. Script Tabel JadwalMengajar
 
-![
+![gambar](gambar/br6.png)
 
 OUTPUT
 
-![
+![gambar](gambar/br7.png)
 
 6. Script Tabel KRSmahasiswa
 
-![
+![gambar](gambar/br8.png)
 
 OUTPUT
 
-![
+![gambar](gambar/br9.png)
 
 DDL Script
-![
+![gambar](gambar/br10.png)
 
 
 
@@ -71,34 +71,34 @@ DDL Script
 ```
 
 1. Isi data pada table tersebut sebanyak minimal 5 record data.
-![
+![gambar](gambar/br11.png)
 
 2. Tampilkan semua isi/record tabel!
-![
+![gambar](gambar/br12.png)
 
 3. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
-![
+![gambar](gambar/br13.png)
 
 4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
-![
+![gambar](gambar/br14.png)
 
 5. Hapus Mahasiswa yang bernama Dina!
-![
+![gambar](gambar/br15.png)
 
 6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
-![
+![gambar](gambar/br16.png)
 
 7. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin perempuan!
-![
+![gambar](gambar/br17.png)
 
 8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
-![
+![gambar](gambar/br18.png)
 
 9. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
-![
+![gambar](gambar/br19.png)
 
 10. Tampilkan data mahasiswa terurut berdasarkan nama
-![
+![gambar](gambar/br20.png)
 
 
 Evaluasi dan Pertanyaan
